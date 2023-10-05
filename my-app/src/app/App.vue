@@ -18,7 +18,7 @@ header {
   max-width: 100vw;
 }
 
-nav > a {
+nav>a {
   padding-left: 1rem;
   padding-right: 1rem;
 }
